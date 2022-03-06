@@ -20,3 +20,8 @@ As A Player I Would Like To:
 
 ## Out Of Scope
 - Make this into a crime mystery theme
+
+## Definition of Done
+- All user stories are tested and accepted by the client.
+- 80% unit test coverage
+- CI/CD
